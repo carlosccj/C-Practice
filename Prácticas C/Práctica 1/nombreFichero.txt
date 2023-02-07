@@ -1,0 +1,4 @@
+BLOQUE 0: Inicio: 0, Fin: 199
+BLOQUE 1: Inicio: 250, Fin: 299
+BLOQUE 2: Inicio: 500, Fin: 599
+BLOQUE 3: Inicio: 750, Fin: 999
